@@ -72,7 +72,7 @@ emoji 表情符号
 
     :emoji code:
     
-    :snake:
+:snake:
 
 
 
